@@ -10,3 +10,7 @@ Includes:
 - Tailwind
 - DaisyUI (Tailwind UI components)
 - viper (TS config)
+
+# TODO
+
+- [ ] Add Dockerfile
